@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A mexican CS enthusiast. building, breaking, researching, and learning along the way</p>
+<p align="left">I am a mexican CS enthusiast. building, breaking, researching, and learning along the way</p>
 
 ###
 
